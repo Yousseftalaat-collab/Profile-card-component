@@ -33,7 +33,7 @@ A creative and responsive <strong>HTML</strong> & <strong>CSS</strong> profile c
 
 <h2>🚀 Live Demo</h2>
 
-<p>🌐 View here: <a href="[https://your-github-username.github.io/lights-on-off-profile-card](https://yousseftalaat-collab.github.io/Profile-card-component/)/" target="_blank">Live Project</a></p>
+<p>🌐 View here: <a href="https://your-github-username.github.io/lights-on-off-profile-card](https://yousseftalaat-collab.github.io/Profile-card-component/" target="_blank">Live Project</a></p>
 <p>📂 GitHub Repo: <a href="https://github.com/your-github-username/lights-on-off-profile-card" target="_blank">Repository</a></p>
 
 <hr>
