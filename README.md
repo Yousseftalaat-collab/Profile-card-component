@@ -60,7 +60,6 @@ A creative and responsive <strong>HTML</strong> & <strong>CSS</strong> profile c
 
 <p>📧 Email: <a href="mailto:yousseftalaat142@gmail.com">yousseftalaat142@gmail.com</a></p>
 <p>🔗 LinkedIn: <a href="https://www.linkedin.com/in/youssef-talaat-1aa2671b3/">Youssef Talaat</a></p>
-<p>🐱 GitHub: <a href="https://github.com/Yousseftalaat-collab">Yousseftalaat-collab</a></p>
 
 ---
 
